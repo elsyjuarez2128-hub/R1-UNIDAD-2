@@ -3,7 +3,7 @@
 
 | Tema | Archivo |
 |------|---------|
-| Calendario | calendario.md |
+| Calendario |  [calendario.md](calendario.md) |
 | Áreas y Recursos | areas_recursos.md |
 | Reservas | reservas.md |
 | Usuarios | usuarios.md |
