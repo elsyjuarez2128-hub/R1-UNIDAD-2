@@ -8,5 +8,5 @@
 | Practica 01 | Listas Simplemente Enlazadas|[Ver Documento](https://github.com/elsyjuarez2128-hub/R1-UNIDAD-2/blob/main/Practica%2001%20Listas%20simplemente%20enlazadas.pdf) |
 | Practica 02 |Lista Doblemente Enlazada|[Ver Documento](https://github.com/elsyjuarez2128-hub/R1-UNIDAD-2/blob/main/Practica%2002%20Listas%20doblemente%20enlazadas.pdf)|
 | Practica 03  |Pilas |[Ver Documento](https://github.com/elsyjuarez2128-hub/R1-UNIDAD-2/blob/main/Practica%2003%20Pila.pdf)|
-| Practica 04  |Colas| [Ver Documento] |
+| Practica 04  |Colas| [Ver Documento](https://github.com/elsyjuarez2128-hub/R1-UNIDAD-2/blob/main/Practica%2004%20Cola.pdf)|
 | Practica 05 |Ordenamiento de Arreglo|[Ver Documento] |
